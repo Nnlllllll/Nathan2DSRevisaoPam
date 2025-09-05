@@ -32,3 +32,5 @@ DEPENDÊNCIAS UTILIZADAS NO PROJETO:
 - react-native-safe-area-context
 - @expo/vector-icons
 - expo-status-bar
+
+MELHOR VISUALIZAÇÃO PELO APLICATIVO

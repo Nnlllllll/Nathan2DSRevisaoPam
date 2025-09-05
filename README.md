@@ -17,6 +17,9 @@ npx expo install expo-status-bar
 5. Instalar node_modules:
 npm install
 
+6.Instalar dependẽncia de checkbox:
+npm install react-native-paper
+
 COMANDO PARA EXECUTAR:
 npx expo start --tunnel
 
